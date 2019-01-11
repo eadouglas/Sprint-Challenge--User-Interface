@@ -50,6 +50,9 @@ Align-items: center works on the cross axis.
 
 5. Explain why git is valuable to a team of developers.
 
+Git is valuable to a team of developers because it can monitor and control code changes made during development across several people or teams.
+
+
 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
